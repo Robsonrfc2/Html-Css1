@@ -71,13 +71,13 @@ section.imagem> p{
     background-color: rgba(0, 0, 0, 0.678);
     text-shadow: 2px 2px 0px black;
 }
-section#img01{
-    background-image: url("imagens/background001.jpg");
+section#img001{
+    background-image: url("Imagens/2012-05-24\ 14.18.50.jpg");
     background-position: right center;
     
 }
-section#img02{
-    background-image: url("imagens/background002.jpg");
+section#img002{
+    background-image: url("Imagens/IMG_20221024_134311.jpg");
     background-position: left center;
     
 }
