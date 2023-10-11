@@ -14,13 +14,13 @@
     padding: 0px;
 }
 html, body{
-    background-color: darkgray;
+    background-color: purple;
     min-height: 100vh;
     font-family: var(--fonte1);
     
 }
 header{
-    background-color: black;
+    background-color: rebeccapurple;
     color: white;
     text-align: center;
 }
@@ -53,7 +53,7 @@ section>p{
     padding-bottom: 2em;
 }
 section.normal{
-    background-color: white;
+    background-color: mediumpurple;
     color: black;
 }
 section.imagem{
@@ -82,7 +82,7 @@ section#img02{
     
 }
 footer{
-    background-color: black;
+    background-color: rebeccapurple;
     text-align: center;
     color: white;
     padding: 10px;
